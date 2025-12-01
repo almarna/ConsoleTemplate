@@ -1,0 +1,55 @@
+# Build results
+bin/
+obj/
+
+# Auto-generated files
+*.exe
+*.dll
+*.pdb
+*.dbmdl
+*.log
+
+# Serilog logs directory
+logs/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*_i.c
+*_p.c
+*_h.h
+*.opendb
+*.VC.db
+
+# JetBrains Rider
+.idea/
+
+# Test results
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet packages (global restore is preferred)
+*.nupkg
+# Uncomment if you package artifacts within repo
+# packages/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Temporary files
+~* 
+*.swp

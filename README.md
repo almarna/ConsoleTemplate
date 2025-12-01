@@ -1,1 +1,1 @@
-# Console
+# Template for a console app with IoC and serilog
